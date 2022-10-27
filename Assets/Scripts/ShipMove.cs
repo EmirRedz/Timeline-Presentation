@@ -8,7 +8,7 @@ public class ShipMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        transform.DOMove(transform.forward * 50, 15f);
+        transform.DOMove(transform.forward * 300, 35f);
     }
     
 }
