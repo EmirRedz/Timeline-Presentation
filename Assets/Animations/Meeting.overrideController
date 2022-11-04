@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Meeting
+  m_Controller: {fileID: 9100000, guid: cf70dc234a66145b793b43b4b579e4d5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 06a9225c441104cb38a3006394aa17b0, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 698fee4f9758144e6888b627353f0a7b, type: 3}
